@@ -1,4 +1,6 @@
-export interface IButtonProps {
+export interface IButton {
     title: string;
-    onClick?: React.MouseEventHandler<HTMLButtonElement>;
+    onClick?: () => void;
+    type?: string;
+    disabled?: boolean;
 }
