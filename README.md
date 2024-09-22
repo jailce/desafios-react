@@ -1,11 +1,14 @@
+<div align="center"> 
 
-# 📌 **Desafios em React.JS**
+# 📌 **Desafios em React.JS** 
+<br>
+<img  src="./assets/logo.webp" width="70" alt="Icone do Bootcamp react Developer"><img src="./assets/html.svg" width="70" alt="Icone HTML5"><img src="./assets/css.svg" width="70" alt="Icone CSS3"><img src="./assets/javascript.svg" width="70" alt="Icone JavaScript"><img src="./assets/react.svg" width="70" alt="Icone React"><img src="./assets/typescript.svg" width="70" alt="Icone TypeScript"> 
 
 
-Este Repositório se encontram desafios de projeto
+Este Repositório se encontram desafios de projeto 
 
-- Desafios de Projeto: 5
-<!-- - Desafios de Código: x -->
+Desafios de Projeto Concluídos: 5
+
 
  <br>
 
@@ -23,7 +26,7 @@ Este Repositório se encontram desafios de projeto
 
 <br>
 
-<table border=1>
+<table border=1 align="center">
     <tr>
         <th colspan="4" style="text-align:center"><b>Desafios de Projeto</b></th>
     </tr>
@@ -72,3 +75,5 @@ Este Repositório se encontram desafios de projeto
 
 ## ❤️ Autora
 Jailce F.
+
+</div>
