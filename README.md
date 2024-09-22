@@ -42,7 +42,7 @@ Desafios de Projeto Concluídos: 5
     <tr>
         <td align="center">Calculadora com React</td>
         <td align="center"><a href="https://github.com/jailce/calculadoraReact">Código</a></td>
-        <td align="center"><a href="*#">Preview</a></td>
+        <td align="center"><a href="*https://jailce.github.io/calculadoraReact/">Preview</a></td>
         <td align="center">✅</td>
     </tr>
     <tr>
